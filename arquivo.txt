@@ -8,3 +8,4 @@ $ git commit -m "mensagem"
 
 alteração pelo git
 
+alteração pelo repositorio remoto
